@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SunOrangeBurger
-- 👀 I’m interested in motorsports, Astronomy, cycling and everything in the middle.
+- 👀 I’m interested in Motorsports, Cstronomy, cycling and everything in between.
 - 🌱 I’m currently learning Python, C++ and JavaScript
 
 <!---
