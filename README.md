@@ -26,7 +26,7 @@ AI/ML · Genetic Algorithms · RAG Systems · Networking · Full-Stack Developme
 
 ---
 
-## 🚀 Notable Projects
+## 🤖👾 Notable Projects
 
 - 🏁 **F1 Tire Strategy Optimizer**  
   Used **genetic algorithms (Python)** to predict optimal tire strategies for minimizing total race time.
